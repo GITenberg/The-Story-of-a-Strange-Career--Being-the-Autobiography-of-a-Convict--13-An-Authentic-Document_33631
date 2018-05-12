@@ -1,0 +1,28 @@
+_repo: The-Story-of-a-Strange-Career--Being-the-Autobiography-of-a-Convict--13-An-Authentic-Document_33631
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33631-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Waterloo, Stanley
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '2830'
+    url: http://www.gutenberg.org/2009/agents/2830
+description: Autobiography ends before convict life began.
+gutenberg_issued: '2010-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33631'
+  lccn: '02021374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcc 'E456'
+title: "The Story of a Strange Career: Being the Autobiography of a Convict\r\nAn\
+  \ Authentic Document"
+url: http://www.gutenberg.org/ebooks/33631
